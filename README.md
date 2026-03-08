@@ -246,28 +246,6 @@ Cache hits reduced query latency from approximately **120 ms to under 30 ms**.
 
 ---
 
-# Project Structure
-
-
-cluster-aware-semantic-search
-│
-├── api
-├── cache
-├── clustering
-├── data
-├── embeddings
-├── notebooks
-├── scripts
-├── utils
-├── vector_store
-│
-├── requirements.txt
-├── Dockerfile
-└── README.md
-
-
----
-
 # Setup Instructions
 
 Install dependencies:
