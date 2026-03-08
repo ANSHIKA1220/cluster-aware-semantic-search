@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Data / Generated artifacts
+data/*.pkl
+embeddings/*.npy
+vector_store/*.bin
+clustering/*.pkl
+cache/cache_state.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
